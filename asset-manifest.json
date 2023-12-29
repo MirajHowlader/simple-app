@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MirajHowlader/simple-app/static/css/main.61af826d.css",
+    "main.js": "/MirajHowlader/simple-app/static/js/main.1db92045.js",
+    "index.html": "/MirajHowlader/simple-app/index.html",
+    "main.61af826d.css.map": "/MirajHowlader/simple-app/static/css/main.61af826d.css.map",
+    "main.1db92045.js.map": "/MirajHowlader/simple-app/static/js/main.1db92045.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61af826d.css",
+    "static/js/main.1db92045.js"
+  ]
+}
