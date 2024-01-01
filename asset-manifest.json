@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/MirajHowlader/simple-app/static/css/main.61af826d.css",
-    "main.js": "/MirajHowlader/simple-app/static/js/main.1db92045.js",
-    "index.html": "/MirajHowlader/simple-app/index.html",
-    "main.61af826d.css.map": "/MirajHowlader/simple-app/static/css/main.61af826d.css.map",
-    "main.1db92045.js.map": "/MirajHowlader/simple-app/static/js/main.1db92045.js.map"
+    "main.css": "/MirajHowlader/ToDoList/static/css/main.efe4166c.css",
+    "main.js": "/MirajHowlader/ToDoList/static/js/main.61b0c9e7.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/MirajHowlader/ToDoList/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/MirajHowlader/ToDoList/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/MirajHowlader/ToDoList/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/MirajHowlader/ToDoList/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/MirajHowlader/ToDoList/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/MirajHowlader/ToDoList/index.html",
+    "main.efe4166c.css.map": "/MirajHowlader/ToDoList/static/css/main.efe4166c.css.map",
+    "main.61b0c9e7.js.map": "/MirajHowlader/ToDoList/static/js/main.61b0c9e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.61af826d.css",
-    "static/js/main.1db92045.js"
+    "static/css/main.efe4166c.css",
+    "static/js/main.61b0c9e7.js"
   ]
 }
